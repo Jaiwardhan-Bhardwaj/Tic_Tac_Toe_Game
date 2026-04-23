@@ -6,7 +6,7 @@ A simple Tic Tac Toe game built using HTML, CSS and JavaScript.
 - Two player game
 - Win & Draw detection
 - Reset game button
-- Responsive UI
+
 
 ## 🛠️ Technologies Used
 - HTML
